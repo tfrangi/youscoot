@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Scoot</title>
+		<title>YOUSCOOT</title>
 		<link href="/templates/style.css" rel="stylesheet">
 		<meta http-equiv="content-type" content="texte/html"; charset="utf-8" />
 		<link rel="icon" href="logo.png" />
